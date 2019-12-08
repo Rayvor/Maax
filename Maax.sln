@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maax", "Maax\Maax.csproj", "{EFA1F983-5143-442B-9FAB-2BB892E3F572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA1F983-5143-442B-9FAB-2BB892E3F572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA1F983-5143-442B-9FAB-2BB892E3F572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA1F983-5143-442B-9FAB-2BB892E3F572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA1F983-5143-442B-9FAB-2BB892E3F572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C316B96-8E0C-4EEE-8A4A-EB5971157F82}
+	EndGlobalSection
+EndGlobal
